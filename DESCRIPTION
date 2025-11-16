@@ -1,0 +1,19 @@
+Package: m6APrediction
+Title: A m6APrediction Package aka BIO215 Practical 7
+Version: 1.0.0
+Authors@R:
+    person("Donghan", "Li",
+           email = "donghan.li23@student.xjtlu.edu.cn",
+           role = c("aut", "cre"))
+Description: Provides functions to predict m6A RNA methylation sites based on genomic features.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    randomForest
+Depends:
+    R (>= 3.5.0)
+Suggests: 
+    knitr,
+    rmarkdown
