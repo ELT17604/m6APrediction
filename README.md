@@ -54,8 +54,8 @@ The performance of the pre-trained Random Forest model is summarized by the foll
 
 **ROC Curve**
 
-![ROC Curve](./roc_plot.png)
+![ROC Curve](./pic/roc_plot.png)
 
 **PRC Curve**
 
-![PRC Curve](./prc_plot.png)
+![PRC Curve](./pic/prc_plot.png)
